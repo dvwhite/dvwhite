@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello, I'm David! 👋
+I'm studying full stack web development at Lambda School. I'm passionate about creating stunning, functional and innovative websites using the tools in my developer toolbox. I'm currently using HTML, SASS, JavaScript, Redux, React, Python, Node, Express, Knex and SQL to build my projects.
+  
+- 🏥 Working in healthcare to deliver language support to limited English proficient patients
+- 🚀 Interning with [Si Hay Sistema](https://sihaysistema.com/) to help businesses in Guatemala to grow their ERP systems on the ERPNext platform
+- 🤖 Automating processes and building internal tools for my team
+- 🔀 Utilizing optimization to find novel solutions in resource-limited situations
 
-<!--
-**dvwhite/dvwhite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔭 My portfolio
+### [Portfolio](https://www.davidwhitedev.com/)
 
-Here are some ideas to get you started:
+## 📫 How to reach me:
+<a href="https://twitter.com/davidwhitedev">
+  <img align="left" alt="David White's Dev Twitter" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/david-white-dev/">
+  <img align="left" alt="David White's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+_ _ _
+
+### ⭐️ From [dvwhite](https://github.com/dvwhite)
+ 
