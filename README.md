@@ -15,9 +15,8 @@ I'm studying full stack web development at Lambda School. I'm passionate about c
 </a>
 <a href="https://www.linkedin.com/in/david-white-dev/">
   <img align="left" alt="David White's Linkedin" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
+</a><br>
 
-_ _ _
-
+___
 ### ⭐️ From [dvwhite](https://github.com/dvwhite)
  
