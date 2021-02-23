@@ -2,8 +2,8 @@
 I studied full stack web development at Lambda School and graduated in November 2020. I'm passionate about creating stunning, functional and innovative websites using the tools in my developer toolbox. I'm currently using Typescript, JavaScript, Redux, React, Python, Node, Express, Knex and SQL to build my projects.
   
 - 🏥 Working in healthcare to deliver language support to limited English proficient patients
-- 🚀 Developing in Python with [Si Hay Sistema](https://sihaysistema.com/) to help businesses in Guatemala to grow their ERP systems on the ERPNext platform
-- 🤖 Automating processes and building internal tools for my team
+- 🚀 Implementing reports for [Si Hay Sistema](https://sihaysistema.com/) to help businesses in Guatemala to grow their ERP systems on the ERPNext platform
+- 🤖 Automating processes and building internal tools for my teams
 - 🔀 Utilizing optimization to find novel solutions in resource-limited situations
 
 ## 🔭 My portfolio
