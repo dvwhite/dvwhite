@@ -1,8 +1,7 @@
 # Hello, I'm David! 👋
-I studied full stack web development at Lambda School and graduated in November 2020. I'm passionate about creating stunning, functional and innovative websites using the tools in my developer toolbox. I'm currently using Typescript, JavaScript, Redux, React, Python, Node, Express, Knex and SQL to build my projects.
+I studied full stack web development at Lambda School and graduated in November 2020. I'm passionate about creating stunning, functional and innovative websites using the tools in my developer toolbox. I'm currently using Typescript, JavaScript, Python, FastAPI, Node, Express, and SQL to build my projects.
   
-- 🏥 Working in healthcare to deliver language support to limited English proficient patients
-- 🚀 Implementing reports for [Si Hay Sistema](https://sihaysistema.com/) to help businesses in Guatemala to grow their ERP systems on the ERPNext platform
+- 🚀 Working in fintech to deliver payroll data and API integrations to customers
 - 🤖 Automating processes and building internal tools for my teams
 - 🔀 Utilizing optimization to find novel solutions in resource-limited situations
 
