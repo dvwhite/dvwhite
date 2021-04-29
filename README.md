@@ -1,5 +1,5 @@
 # Hello, I'm David! 👋
-I studied full stack web development at Lambda School and graduated in November 2020. I'm passionate about creating stunning, functional and innovative websites using the tools in my developer toolbox. I'm currently using Typescript, JavaScript, Python, FastAPI, Node, Express, and SQL to build my projects.
+I studied full stack web development at Lambda School and graduated in November 2020. I'm passionate about innovating, using the tools in my developer toolbox. I'm currently using Python, FastAPI, Node and Typescript to build my projects.
   
 - 🚀 Working in fintech to deliver payroll data and API integrations to customers
 - 🤖 Automating processes and building internal tools for my teams
